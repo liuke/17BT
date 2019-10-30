@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://raw.githubusercontent.com/liuke/17BT/master/GameBox.ipa?raw=true</string>
+					<string>https://github.com/liuke/17BT/blob/master/GameBox.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
